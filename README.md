@@ -18,4 +18,5 @@ You will also see any lint errors in the console.
 
 ## An Overview
 ![](https://github.com/mzhao99/Boston-Tourism-Website/blob/demo/home-page.gif)
+
 ![](https://github.com/mzhao99/Boston-Tourism-Website/blob/demo/shop-page.gif)
