@@ -17,4 +17,4 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 ## An Overview
-[Demo](https://github.com/mzhao99/Boston-Tourism-Website/blob/master/home-page.gif)
+![](https://github.com/mzhao99/Boston-Tourism-Website/blob/master/home-page.gif)
